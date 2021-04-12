@@ -1,0 +1,16 @@
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\net5.0\AutoSSLToUCE.exe
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\net5.0\AutoSSLToUCE.deps.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\net5.0\AutoSSLToUCE.runtimeconfig.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\net5.0\AutoSSLToUCE.runtimeconfig.dev.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\net5.0\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\net5.0\ref\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\net5.0\AutoSSLToUCE.pdb
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.csprojAssemblyReference.cache
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.AssemblyInfoInputs.cache
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.AssemblyInfo.cs
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.csproj.CoreCompileInputs.cache
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\ref\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.pdb
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\net5.0\AutoSSLToUCE.genruntimeconfig.cache

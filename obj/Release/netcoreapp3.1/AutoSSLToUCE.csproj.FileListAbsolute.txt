@@ -1,0 +1,13 @@
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\AutoSSLToUCE.exe
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\AutoSSLToUCE.deps.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\AutoSSLToUCE.runtimeconfig.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\AutoSSLToUCE.runtimeconfig.dev.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\AutoSSLToUCE.pdb
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\netcoreapp3.1\AutoSSLToUCE.csprojAssemblyReference.cache
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\netcoreapp3.1\AutoSSLToUCE.AssemblyInfoInputs.cache
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\netcoreapp3.1\AutoSSLToUCE.AssemblyInfo.cs
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\netcoreapp3.1\AutoSSLToUCE.csproj.CoreCompileInputs.cache
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\netcoreapp3.1\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\netcoreapp3.1\AutoSSLToUCE.pdb
+C:\Crestron\Flex\projects\AutoSSLToUCE\obj\Release\netcoreapp3.1\AutoSSLToUCE.genruntimeconfig.cache

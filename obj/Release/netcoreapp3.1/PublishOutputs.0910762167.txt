@@ -1,0 +1,5 @@
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\publish\AutoSSLToUCE.exe
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\publish\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\publish\AutoSSLToUCE.deps.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\publish\AutoSSLToUCE.runtimeconfig.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Release\netcoreapp3.1\publish\AutoSSLToUCE.pdb

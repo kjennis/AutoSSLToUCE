@@ -1,0 +1,5 @@
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Debug\net5.0\publish\AutoSSLToUCE.exe
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Debug\net5.0\publish\AutoSSLToUCE.dll
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Debug\net5.0\publish\AutoSSLToUCE.deps.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Debug\net5.0\publish\AutoSSLToUCE.runtimeconfig.json
+C:\Crestron\Flex\projects\AutoSSLToUCE\bin\Debug\net5.0\publish\AutoSSLToUCE.pdb
