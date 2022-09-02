@@ -7,18 +7,18 @@ Choose "Local Machine" as the Store Location.<br />
 Choose "Thrusted Root Certification Authorities" as the Certificate store.
 
 ## Use:
-`AutoSSLToUCE <IP or hostname> <username> <password> <command>`
-or
+`AutoSSLToUCE <IP or hostname> <username> <password> <command>`<br />
+or<br />
 `AutoSSLToUCE <file.csv>`
 
 ## Example:
-`AutoSSLToUCE "10.80.23.50" admin sfb "ver -v"`
+`AutoSSLToUCE "10.80.23.50" admin sfb "ver -v"`<br />
 `AutoSSLToUCE "C:\AllUC-Engines.csv"`
 
 ## CSV stucture example
-192.168.1.101,admin,sfb,ver
-192.168.1.102,admin,sfb,ver
-192.168.1.103,admin,sfb,ver
-192.168.1.104,admin,sfb,ver
-192.168.1.105,admin,sfb,ver
+192.168.1.101,admin,sfb,ver<br />
+192.168.1.102,admin,sfb,ver<br />
+192.168.1.103,admin,sfb,ver<br />
+192.168.1.104,admin,sfb,ver<br />
+192.168.1.105,admin,sfb,ver<br />
 192.168.1.106,admin,sfb,ver
