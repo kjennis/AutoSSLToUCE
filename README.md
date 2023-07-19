@@ -3,7 +3,7 @@ Demo project to show how to make an SSL connection to a Crestron UC-Engine and s
 
 ## Notice of Non-Affiliation and Disclaimer
 
-These scripts are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Crestron Electronics Inc., or any of its subsidiaries or its affiliates.
+This program is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Crestron Electronics Inc., or any of its subsidiaries or its affiliates.
 
 #### Important!
 In order to pass the sslpolicy you need to install the [UC-Engine certificate](cert/srv_cert.crt) on your client.<br />
