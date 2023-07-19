@@ -1,6 +1,10 @@
 # AutoSSLToUCE
 Demo project to show how to make an SSL connection to a Crestron UC-Engine and send a single command without user interaction.
 
+## Notice of Non-Affiliation and Disclaimer
+
+These scripts are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Crestron Electronics Inc., or any of its subsidiaries or its affiliates.
+
 #### Important!
 In order to pass the sslpolicy you need to install the [UC-Engine certificate](cert/srv_cert.crt) on your client.<br />
 Choose "Local Machine" as the Store Location.<br />
